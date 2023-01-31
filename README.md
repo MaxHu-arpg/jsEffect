@@ -14,6 +14,9 @@ js效果库,各种修改版
 11. [x] [MoveSpringyEmoji.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveSpringyEmoji.js)
 12. [x] [MoveTextFlag.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveTextFlag.js)
 13. [x] [TitleTrick.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/TitleTrick.js)
+
+不生效时尝试给父元素加上 `{position: relative;}`
+
 ## 更多 More
 
 蛛网背景特效：\
