@@ -6,11 +6,14 @@ js效果库,各种修改版
 3. [ ] [ClickDot.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/ClickDot.js)
 4. [ ] [ClickFireworks.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/ClickFireworks.js)
 5. [x] [ClickWord.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/ClickWord.js)
-6. [x] [MoveCharacter.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveCharacter.js)
-7. [x] [MoveEmojiRain.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveEmojiRain.js)
-8. [x] [MoveClock.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveClock.js)
-9. [x] [MoveDot.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveDot.js)
-10. [x] [TitleTrick.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/TitleTrick.js)
+6. [x] [MoveBubble.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveBubble.js)
+7. [x] [MoveCharacter.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveCharacter.js)
+8. [x] [MoveEmojiRain.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveEmojiRain.js)
+9. [x] [MoveClock.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveClock.js)
+10. [x] [MoveDot.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveDot.js)
+11. [x] [MoveSpringyEmoji.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveSpringyEmoji.js)
+12. [x] [MoveTextFlag.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/MoveTextFlag.js)
+13. [x] [TitleTrick.js](https://github.com/MaxHu-arpg/jsEffect/blob/main/js/TitleTrick.js)
 ## 更多 More
 
 蛛网背景特效：\
